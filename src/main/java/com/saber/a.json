@@ -1,0 +1,10 @@
+{
+  "debug": true,
+  "experimental": false,
+  "registry-mirrors": [
+    "https://lid0fm7y.mirror.aliyuncs.com",
+    "https://hub-mirror.c.163.com/",
+    "https://docker.mirrors.ustc.edu.cn",
+    "http://f1361db2.m.daocloud.io"
+  ]
+}
